@@ -1,5 +1,3 @@
-package com.gui.test;
-
 import java.util.*;
 
 public class Test {
