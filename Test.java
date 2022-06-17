@@ -6,6 +6,11 @@ public class Test {
     int a = 1;
     int b = a + 1;
   }
+  
+  public void test(int var) {
+    int a = 1;
+    int b = a + 1;
+  }
 
   public static void main(String[] args) {
     Test test = new Test();
